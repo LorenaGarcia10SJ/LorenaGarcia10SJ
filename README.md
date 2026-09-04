@@ -20,6 +20,17 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/-HTML-orange)
 ![CSS](https://img.shields.io/badge/-CSS-blue)
 ![PowerBI](https://img.shields.io/badge/-PowerBI-yellow)
+![Python](https://img.shields.io/badge/-Python-green)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/-Node.js-lightgrey)
+![C++](https://img.shields.io/badge/-C++-blue)
+![Pandas](https://img.shields.io/badge/-Pandas-lightblue)
+
+🚀 Metodologías ágiles y herramientas
+  
+![Scrum](https://img.shields.io/badge/-Scrum-red)
+![Jira](https://img.shields.io/badge/-Jira-blue)
+![Trello](https://img.shields.io/badge/-Trello-lightblue)
 
 ## 🎯 Estoy trabajando en
 - Apuntes y ejercicios para estudiantes.
@@ -30,5 +41,5 @@ Here are some ideas to get you started:
 - Diseño de dashboards interactivos.
 
 ## 📬 Cómo contactarme
-[LinkedIn](https://linkedin.com/in/ingrid-lorena-garcia-yantuche-42b998408) | [Portafolio](https://LorebaGarcia10SJ.github.io)
+[LinkedIn](https://linkedin.com/in/ingrid-lorena-garcia-yantuche-42b998408) | [Portafolio](https://LorenaGarcia10SJ.github.io)
 

@@ -88,10 +88,6 @@ El desarrollo implicó organización de funcionalidades, implementación de comp
 - Apuntes y ejercicios para estudiantes.
 - Proyectos personales de análisis de datos.
 
-## 📚 Estoy aprendiendo
-- Power BI intermedio.
-- Diseño de dashboards interactivos.
-
 ## 📬 Cómo contactarme
 [LinkedIn](https://linkedin.com/in/ingrid-lorena-garcia-yantuche-42b998408) | [Portafolio](https://github.com/LorenaGarcia10SJ)
 

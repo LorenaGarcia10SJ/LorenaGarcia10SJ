@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-green)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![Node.js](https://img.shields.io/badge/-Node.js-lightgrey)
-![C++](https://img.shields.io/badge/-C++-blue)
 ![Pandas](https://img.shields.io/badge/-Pandas-lightblue)
 
 🚀 Metodologías ágiles y herramientas
